@@ -1,7 +1,7 @@
 
 
 # Hello 👋
-My name is Evan Mastro, and I am a software engineer based out of San Deigo, CA & also work Remotely. Here you'll find some of the projects I have worked on or am currently working on. Open to connections and networking 😃 
+My name is Evan Mastro, and I am a software engineer based out of San Diego, CA & also work Remotely. Here you'll find some of the projects I have worked on or am currently working on. Open to connections and networking 😃 
 
 ### Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-mastroevan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mastroevan@gmail.com)](mailto:mastroevan@gmail.com)
