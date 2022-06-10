@@ -21,3 +21,5 @@ My name is Evan Mastro, and I am a software engineer based out of San Diego, CA 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=excel)nbsp;
+![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=sharepoint)nbsp;
