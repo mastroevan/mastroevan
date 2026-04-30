@@ -42,7 +42,7 @@ I'm currently focused on building practical software products, improving user ex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan%20Mastro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mastroevan/)
 
-[![Email](https://img.shields.io/badge/Email-mastroevan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastroevan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mastroevan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanmastro@icloud.com)
 
 [![Booked Signal](https://img.shields.io/badge/Project-Booked%20Signal-1abc9c?style=for-the-badge)](https://booked-signal.com)
 ### Tech
