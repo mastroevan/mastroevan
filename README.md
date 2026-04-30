@@ -1,12 +1,50 @@
+# Hey, I'm Evan 👋
 
+I'm a **Full-Stack Software Engineer** building modern web apps, automation tools, and cloud-based software solutions.
 
-# Hello 👋
-My name is Evan Mastro, and I am a software engineer based out of Denver, CO! Here you'll find some of the projects I have worked on or am currently working on. Open to connections and networking 😃 
+I enjoy turning messy business problems into clean, useful products — from portfolio sites and booking systems to AI-powered workflow tools.
 
-### Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-mastroevan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mastroevan@gmail.com)](mailto:mastroevan@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-mastroevan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mastroevan/)](https://www.linkedin.com/in/mastroevan/)
-![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+## 🚀 What I Work With
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express, REST APIs, Python  
+**Databases:** PostgreSQL, SQL, Prisma  
+**Cloud & Tools:** AWS, Git, GitHub, VS Code, Microsoft 365, SharePoint, Power Platform  
+**Other:** CI/CD, API integrations, automation, technical documentation
+
+## 🛠 Featured Projects
+
+### [Developer Portfolio](https://emsoftwaresolutions.com)
+A personal portfolio site showcasing my full-stack development work, projects, and technical background.
+
+### [Booked Signal](https://booked-signal.com)
+A lead generation and appointment-booking concept designed to help local businesses turn interest into scheduled appointments.
+
+### [Elevator Simulation](https://github.com/mastroevan/elevator-simulation)
+A Node.js project that simulates elevator trips, tracks visited floors, and calculates total travel time.
+
+### [AidFlow](https://github.com/mastroevan/aidflow)
+A TypeScript-based project focused on helping users navigate assistance workflows and eligibility support.
+
+## 💼 About Me
+
+I'm currently focused on building practical software products, improving user experiences, and growing as a full-stack developer. I’m especially interested in roles involving:
+
+- Full-stack web development
+- React / TypeScript applications
+- Node.js backend development
+- Cloud-based software
+- Microsoft Power Platform and automation
+- AI-powered business tools
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-emsoftwaresolutions.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emsoftwaresolutions.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan%20Mastro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mastroevan/)
+
+[![Email](https://img.shields.io/badge/Email-mastroevan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastroevan@gmail.com)
+
+[![Booked Signal](https://img.shields.io/badge/Project-Booked%20Signal-1abc9c?style=for-the-badge)](https://booked-signal.com)
 ### Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -23,3 +61,6 @@ My name is Evan Mastro, and I am a software engineer based out of Denver, CO! He
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=excel)
 ![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=sharepoint)
+---
+
+Thanks for stopping by — feel free to check out my projects or connect with me.
