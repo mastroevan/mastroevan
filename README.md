@@ -1,16 +1,34 @@
 # Hey, I'm Evan 👋
 
-I'm a **Full-Stack Software Engineer** building modern web apps, automation tools, and cloud-based software solutions.
+## Full-Stack Software Engineer | React | TypeScript | Node.js | Power Platform
 
-I enjoy turning messy business problems into clean, useful products — from portfolio sites and booking systems to AI-powered workflow tools.
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20Software%20Roles-2ea44f?style=for-the-badge)
+![Available](https://img.shields.io/badge/Available-Immediate%20Start-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Denver%20%7C%20Remote-lightgrey?style=for-the-badge)
 
-## 🚀 What I Work With
+I build practical, polished software that turns messy business problems into clean digital products. My work spans full-stack web apps, automation tools, cloud-based workflows, and AI-powered business solutions.
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express, REST APIs, Python  
-**Databases:** PostgreSQL, SQL, Prisma  
-**Cloud & Tools:** AWS, Git, GitHub, VS Code, Microsoft 365, SharePoint, Power Platform  
-**Other:** CI/CD, API integrations, automation, technical documentation
+Currently focused on building scalable apps, improving user experiences, and shipping projects that are actually useful — wild concept, I know.
+
+---
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=prisma)
+![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-333333?style=for-the-badge&logo=microsoft)
+![SharePoint](https://img.shields.io/badge/SharePoint-333333?style=for-the-badge&logo=microsoft-sharepoint)
+
+---
 
 ## 🛠 Featured Projects
 
@@ -26,41 +44,36 @@ A Node.js project that simulates elevator trips, tracks visited floors, and calc
 ### [AidFlow](https://github.com/mastroevan/aidflow)
 A TypeScript-based project focused on helping users navigate assistance workflows and eligibility support.
 
-## 💼 About Me
+---
 
-I'm currently focused on building practical software products, improving user experiences, and growing as a full-stack developer. I’m especially interested in roles involving:
+## 💼 What I Bring
 
-- Full-stack web development
-- React / TypeScript applications
-- Node.js backend development
-- Cloud-based software
-- Microsoft Power Platform and automation
-- AI-powered business tools
+- Full-stack development with React, TypeScript, Node.js, and REST APIs
+- Experience building business-facing tools, dashboards, and workflow apps
+- Strong focus on clean UI, practical architecture, and maintainable code
+- Microsoft 365, SharePoint, and Power Platform development experience
+- Cloud, automation, API integration, and technical problem-solving skills
+
+---
+
+## 📊 GitHub Stats
+
+![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastroevan&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastroevan&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-emsoftwaresolutions.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emsoftwaresolutions.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan%20Mastro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mastroevan/)
 
-[![Email](https://img.shields.io/badge/Email-mastroevan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanmastro@icloud.com)
+[![Email](https://img.shields.io/badge/Email-evanmastro%40icloud.com-1A73E8?style=for-the-badge&logo=icloud&logoColor=white)](mailto:evanmastro@icloud.com)
 
 [![Booked Signal](https://img.shields.io/badge/Project-Booked%20Signal-1abc9c?style=for-the-badge)](https://booked-signal.com)
-### Tech
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=excel)
-![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=sharepoint)
+
 ---
 
-Thanks for stopping by — feel free to check out my projects or connect with me.
+Thanks for stopping by. Feel free to check out my projects or connect with me.
