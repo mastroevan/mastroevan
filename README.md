@@ -35,9 +35,6 @@ Currently focused on building scalable apps, improving user experiences, and shi
 ### [Developer Portfolio](https://emsoftwaresolutions.com)
 A personal portfolio site showcasing my full-stack development work, projects, and technical background.
 
-### [Booked Signal](https://booked-signal.com)
-A lead generation and appointment-booking concept designed to help local businesses turn interest into scheduled appointments.
-
 ### [Elevator Simulation](https://github.com/mastroevan/elevator-simulation)
 A Node.js project that simulates elevator trips, tracks visited floors, and calculates total travel time.
 
