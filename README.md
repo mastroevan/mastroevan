@@ -32,11 +32,17 @@ Currently focused on building scalable apps, improving user experiences, and shi
 
 ## 🛠 Featured Projects
 
+### [Shadow Trader](https://github.com/mastroevan/shadow-trader)
+An AI-powered trading intelligence platform that analyzes stocks and cryptocurrencies using technical indicators, real-time market data, and LLM-driven reasoning to generate confidence-scored trade opportunities. Built as a full-stack application with automated watchlists, trade tracking, and an interactive analytics dashboard.
+**Key Features**
+- AI-generated market analysis and trade theses
+- Confidence scoring and watchlist automation
+- Real-time market data integration
+- Interactive trading dashboard and performance tracking
+- Built with React, TypeScript, Node.js, Python, PostgreSQL, and REST APIs
+
 ### [Developer Portfolio](https://emsoftwaresolutions.com)
 A personal portfolio site showcasing my full-stack development work, projects, and technical background.
-
-### [Elevator Simulation](https://github.com/mastroevan/elevator-simulation)
-A Node.js project that simulates elevator trips, tracks visited floors, and calculates total travel time.
 
 ### [AidFlow](https://github.com/mastroevan/aidflow)
 A TypeScript-based project focused on helping users navigate assistance workflows and eligibility support.
