@@ -32,7 +32,7 @@ Currently focused on building scalable apps, improving user experiences, and shi
 
 ## 🛠 Featured Projects
 
-### [Shadow Trader](https://shadow-trader.onrender.com)
+### [Shadow Trader](https://shadow-trader-web.onrender.com)
 An AI-powered trading intelligence platform that analyzes stocks and cryptocurrencies using technical indicators, real-time market data, and LLM-driven reasoning to generate confidence-scored trade opportunities. Built as a full-stack application with automated watchlists, trade tracking, and an interactive analytics dashboard.
 **Key Features**
 - AI-generated market analysis and trade theses
