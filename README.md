@@ -36,6 +36,16 @@ Currently focused on building scalable apps, improving user experiences, and shi
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi)
 ![Jest](https://img.shields.io/badge/Jest-333333?style=for-the-badge&logo=jest)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=for-the-badge&logo=githubactions)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-333333?style=for-the-badge&logo=claudecode)
+![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker)
+![Fastify](https://img.shields.io/badge/Fastify-333333?style=for-the-badge&logo=fastify)
+![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=for-the-badge&logo=graphql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
+![Pytest](https://img.shields.io/badge/Pytest-333333?style=for-the-badge&logo=pytest)
+![Postman](https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-333333?style=for-the-badge&logo=gnubash)
 
 ---
 
