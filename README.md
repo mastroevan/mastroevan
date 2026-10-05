@@ -32,14 +32,19 @@ Currently focused on building scalable apps, improving user experiences, and shi
 
 ## 🛠 Featured Projects
 
-### [Shadow Trader](https://shadow-trader-web.onrender.com)
-An AI-powered trading intelligence platform that analyzes stocks and cryptocurrencies using technical indicators, real-time market data, and LLM-driven reasoning to generate confidence-scored trade opportunities. Built as a full-stack application with automated watchlists, trade tracking, and an interactive analytics dashboard.
+### [Shadow Trader](https://github.com/mastroevan/shadow-trader/README.md)
+An AI-powered trading intelligence platform that analyzes stocks and crypto using technical indicators, live market data, and LLM reasoning to produce confidence-scored trade theses. Every thesis, risk assessment, and approval is written to an SAP HANA Cloud audit ledger, and no trade opens until a human approval is on record.
+
 **Key Features**
-- AI-generated market analysis and trade theses
-- Confidence scoring and watchlist automation
-- Real-time market data integration
-- Interactive trading dashboard and performance tracking
-- Built with React, TypeScript, Node.js, Python, PostgreSQL, and REST APIs
+- AI-generated market analysis, trade theses, and risk assessments
+- Watchlist automation with confidence scoring and a risk gate
+- Human-in-the-loop execution: trades are blocked until an approval is recorded in the ledger, and the check fails closed
+- SAP CAP (Node.js) audit ledger on SAP BTP Cloud Foundry, backed by HANA Cloud and secured with XSUAA roles; the agent can write theses but can't approve them
+- Read-only MCP access to the ledger for AI assistants, with tool descriptions tested against real portfolio questions
+- 66 Jest tests running in GitHub Actions on every push
+- Interactive dashboard with real-time market data and performance tracking
+
+**Built with** Next.js, React, TypeScript, Node.js, Python (FastAPI), PostgreSQL, OpenAI, SAP BTP, SAP CAP, SAP HANA Cloud, XSUAA, MCP
 
 ### [Developer Portfolio](https://emsoftwaresolutions.com)
 A personal portfolio site showcasing my full-stack development work, projects, and technical background.
