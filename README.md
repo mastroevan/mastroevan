@@ -27,6 +27,15 @@ Currently focused on building scalable apps, improving user experiences, and shi
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-333333?style=for-the-badge&logo=microsoft)
 ![SharePoint](https://img.shields.io/badge/SharePoint-333333?style=for-the-badge&logo=microsoft-sharepoint)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-333333?style=for-the-badge&logo=sap)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-333333?style=for-the-badge&logo=sap)
+![SAP HANA Cloud](https://img.shields.io/badge/SAP%20HANA%20Cloud-333333?style=for-the-badge&logo=sap)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-333333?style=for-the-badge&logo=cloudfoundry)
+![MCP](https://img.shields.io/badge/MCP-333333?style=for-the-badge&logo=modelcontextprotocol)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi)
+![Jest](https://img.shields.io/badge/Jest-333333?style=for-the-badge&logo=jest)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=for-the-badge&logo=githubactions)
 
 ---
 
