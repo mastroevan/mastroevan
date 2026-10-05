@@ -78,8 +78,6 @@ A TypeScript-based project focused on helping users navigate assistance workflow
 
 [![Email](https://img.shields.io/badge/Email-evanmastro%40icloud.com-1A73E8?style=for-the-badge&logo=icloud&logoColor=white)](mailto:evanmastro@icloud.com)
 
-[![Booked Signal](https://img.shields.io/badge/Project-Booked%20Signal-1abc9c?style=for-the-badge)](https://booked-signal.com)
-
 ---
 
 Thanks for stopping by. Feel free to check out my projects or connect with me.
