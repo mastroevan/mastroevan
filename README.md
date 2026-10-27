@@ -51,8 +51,11 @@ Currently focused on building scalable apps, improving user experiences, and shi
 
 ## 🛠 Featured Projects
 
-### [Shadow Trader](https://github.com/mastroevan/shadow-trader/README.md)
-An AI-powered trading intelligence platform that analyzes stocks and crypto using technical indicators, live market data, and LLM reasoning to produce confidence-scored trade theses. Every thesis, risk assessment, and approval is written to an SAP HANA Cloud audit ledger, and no trade opens until a human approval is on record.
+### [Developer Portfolio](https://emsoftwaresolutions.com)
+My personal site, with my projects, background, and contact info in one place.
+
+### [Shadow Trader](https://github.com/mastroevan/shadow-trader)
+An AI-powered trading intelligence platform that analyzes stocks and crypto with technical indicators, live market data, and LLM reasoning to produce confidence-scored trade theses. Every thesis, risk assessment, and approval is written to an SAP HANA Cloud audit ledger, and no trade opens until a human approval is on record.
 
 **Key Features**
 - AI-generated market analysis, trade theses, and risk assessments
@@ -65,12 +68,18 @@ An AI-powered trading intelligence platform that analyzes stocks and crypto usin
 
 **Built with** Next.js, React, TypeScript, Node.js, Python (FastAPI), PostgreSQL, OpenAI, SAP BTP, SAP CAP, SAP HANA Cloud, XSUAA, MCP
 
-### [Developer Portfolio](https://emsoftwaresolutions.com)
-A personal portfolio site showcasing my full-stack development work, projects, and technical background.
+### [Countersign](https://github.com/mastroevan/countersign)
+Checks a carrier's "delivered" scan against what the Ring doorbell camera actually sees. When a package is marked delivered, an agent opens a live view on the door camera, samples frames, and asks a Bedrock vision model whether a parcel is there. The verdict (Verified, Disputed, or Inconclusive) comes from deterministic policy code, not the model, so every result is reproducible and auditable. Built for the Ring track of Amazon's Build, Ship, Shape developer hackathon.
 
-### [AidFlow](https://github.com/mastroevan/aidflow)
-A TypeScript-based project focused on helping users navigate assistance workflows and eligibility support.
+**Key Features**
+- Agent-driven verification: delivery events trigger a live-view check of the door camera over WebRTC
+- Bedrock vision returns a structured judgment (parcel visible, confidence, location), and policy code turns it into the verdict
+- Claim packets for disputed deliveries are drafted with timestamped evidence frames, and nothing goes out without human approval
+- Privacy safeguards: no face or vehicle identification
+- MCP server (FastMCP, Streamable HTTP) so voice assistants can ask whether a package arrived
+- Evaluation suite with precision/recall metrics, plus pytest and mypy checks
 
+**Built with** Python (FastAPI, async), AWS Bedrock, Bedrock AgentCore, Amazon S3, Ring API, WebRTC (aiortc), MCP, Next.js, React, Tailwind
 ---
 
 ## 💼 What I Bring
