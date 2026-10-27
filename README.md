@@ -80,6 +80,7 @@ Checks a carrier's "delivered" scan against what the Ring doorbell camera actual
 - Evaluation suite with precision/recall metrics, plus pytest and mypy checks
 
 **Built with** Python (FastAPI, async), AWS Bedrock, Bedrock AgentCore, Amazon S3, Ring API, WebRTC (aiortc), MCP, Next.js, React, Tailwind
+
 ---
 
 ## 💼 What I Bring
