@@ -52,34 +52,36 @@ Currently focused on building scalable apps, improving user experiences, and shi
 ## 🛠 Featured Projects
 
 ### [Developer Portfolio](https://emsoftwaresolutions.com)
-My personal site, with my projects, background, and contact info in one place.
+My personal site: current projects, background, and resume in one place. Built with React, TypeScript, Vite, and Tailwind CSS, deployed on Vercel.
 
 ### [Shadow Trader](https://github.com/mastroevan/shadow-trader)
-An AI-powered trading intelligence platform that analyzes stocks and crypto with technical indicators, live market data, and LLM reasoning to produce confidence-scored trade theses. Every thesis, risk assessment, and approval is written to an SAP HANA Cloud audit ledger, and no trade opens until a human approval is on record.
+An AI market research agent for stocks and crypto. Enter a ticker and it gathers live quotes, recent headlines, and technical signals; a LangGraph agent turns that evidence into a structured thesis with a confidence score and a watchlist plan. A deterministic risk gate, not the model, decides whether a setup can become a paper trade.
 
 **Key Features**
-- AI-generated market analysis, trade theses, and risk assessments
-- Watchlist automation with confidence scoring and a risk gate
-- Human-in-the-loop execution: trades are blocked until an approval is recorded in the ledger, and the check fails closed
-- SAP CAP (Node.js) audit ledger on SAP BTP Cloud Foundry, backed by HANA Cloud and secured with XSUAA roles; the agent can write theses but can't approve them
-- Read-only MCP access to the ledger for AI assistants, with tool descriptions tested against real portfolio questions
-- 66 Jest tests running in GitHub Actions on every push
-- Interactive dashboard with real-time market data and performance tracking
+- Structured theses: strategy, timeframe, bias, confidence, and exactly two bullish and two bearish factors
+- Watchlist plans with trigger, invalidation, entry zone, stop loss, take profit, and risk/reward
+- Confidence routing: 75%+ setups join the watchlist automatically, 60–74% wait for manual review, and anything lower is rejected
+- Risk gate before any paper trade opens: stop and target placement, risk/reward, volume, trend strength, and a cooldown after losses
+- Separate Next.js, Node API, and Python agent services, with PostgreSQL via Prisma and a Dockerfile for each
+- End-to-end proof script that requires a real agent response, then opens and closes a paper trade
+- Tests across the API, web app, and agent, run in GitHub Actions on every push
 
-**Built with** Next.js, React, TypeScript, Node.js, Python (FastAPI), PostgreSQL, OpenAI, SAP BTP, SAP CAP, SAP HANA Cloud, XSUAA, MCP
+**Built with** Next.js, React, TypeScript, Node.js, Python (FastAPI), LangGraph, OpenAI, PostgreSQL, Prisma, Docker, GitHub Actions
 
 ### [Countersign](https://github.com/mastroevan/countersign)
-Checks a carrier's "delivered" scan against what the Ring doorbell camera actually sees. When a package is marked delivered, an agent opens a live view on the door camera, samples frames, and asks a Bedrock vision model whether a parcel is there. The verdict (Verified, Disputed, or Inconclusive) comes from deterministic policy code, not the model, so every result is reproducible and auditable. Built for the Ring track of Amazon's Build, Ship, Shape developer hackathon.
+Checks a carrier's "delivered" scan against what the Ring doorbell camera actually sees. When a package is marked delivered, the backend opens a live view on the door camera, samples frames, and asks an Amazon Bedrock vision model what's in them. The model only reports observations; plain Python policy code turns them into Verified, Disputed, or Inconclusive, so every verdict is reproducible and auditable. Built for the Ring track of Amazon's Build, Ship, Shape developer hackathon.
 
 **Key Features**
-- Agent-driven verification: delivery events trigger a live-view check of the door camera over WebRTC
-- Bedrock vision returns a structured judgment (parcel visible, confidence, location), and policy code turns it into the verdict
-- Claim packets for disputed deliveries are drafted with timestamped evidence frames, and nothing goes out without human approval
-- Privacy safeguards: no face or vehicle identification
-- MCP server (FastMCP, Streamable HTTP) so voice assistants can ask whether a package arrived
-- Evaluation suite with precision/recall metrics, plus pytest and mypy checks
+- Live-view frame sampling over WebRTC (WHEP), refusing any camera with end-to-end encryption enabled
+- Bedrock Converse with forced tool use returns observations only (parcel visible, location, confidence, watermark time); `policy.py` decides the verdict
+- Claim drafts and S3 evidence packets with SHA-256 manifests are built only after a named person approves
+- Privacy safeguards: no people, faces, or vehicles are described
+- MCP server (FastMCP, Streamable HTTP) so voice assistants can check a delivery, with deliberately no approval tool
+- Live pipeline trace over Server-Sent Events
+- 150+ tests and strict mypy in CI, plus an eval harness with precision and recall thresholds for the vision judge (so far run on synthetic frames)
+- Runs fully offline in minutes with synthetic frames and a stand-in tracker
 
-**Built with** Python (FastAPI, async), AWS Bedrock, Bedrock AgentCore, Amazon S3, Ring API, WebRTC (aiortc), MCP, Next.js, React, Tailwind
+**Built with** Python (FastAPI, async), Amazon Bedrock, Amazon S3, Ring API, WebRTC (aiortc), EasyPost, MCP (FastMCP), Next.js, React, Tailwind
 
 ---
 
